@@ -1,0 +1,54 @@
+.form{
+    width: 50px;
+}
+.brown{
+    height: 50px;
+    width: 50;
+    padding-right: 450px;
+}
+.navbar-nav{
+    padding-left: 700px;
+    height: 40px;
+
+}
+.carousel-item :active{
+    width: 5000px;
+    height: 300;
+
+}
+
+.navbar-light{
+    height: 100px;
+}
+.white{
+    width: 1000px;
+    height: 500px;
+    
+}
+.black{
+    width: 1000px;
+}
+.red{
+    width: 1000px;
+    height: 500px;
+}
+.blue{
+    height: 330px;
+    width: 300px;
+}
+
+.yellow{
+    height: 350px;
+    width: 250px;
+}
+.nav-item{
+    padding-left: 160px;
+}
+
+.ball{
+    width: 250px;
+    height: 230px;
+}
+.wicket{
+    height: 230px;
+}
